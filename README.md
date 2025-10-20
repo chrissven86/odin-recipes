@@ -1,1 +1,1 @@
-# odin-recipes
+This project is the first in The Odin Project-curriculum, which will demonstrate my newly developed HTML-knowledge.
