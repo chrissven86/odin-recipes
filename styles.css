@@ -1,0 +1,41 @@
+body {
+    font-family: "DeJaVu Sans", Helvetica, Arial;
+    background-color: #9ca7b8;
+}
+
+div {
+    padding: 30px;
+    text-align: center;
+    width: 400px;
+    margin: 10px auto;
+}
+
+.title {
+   background-color: #6a91a5;
+   width: 800px;
+}
+
+.lasagna {
+    background: #5b778d;
+}
+
+.meatballs {
+    background-color: #476072;
+}
+
+.appledessert {
+    background-color: #334257;
+}
+
+.second_page {
+    text-align: center;
+}
+
+ol, ul {
+    width: 725px;
+    margin: 0 auto;
+}
+
+ol {
+    text-align: justify;
+}
